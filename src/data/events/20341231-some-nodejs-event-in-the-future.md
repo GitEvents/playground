@@ -1,6 +1,6 @@
 ---
-  @context: "http://schema.org"
-  @type: "Social event"
+  @@context: "http://schema.org"
+  @@type: "Social event"
   location: 
     @type: "Place"
     address: 
