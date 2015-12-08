@@ -43,6 +43,14 @@
       id: "your-awesome-talk"
       sameAs: "https://api.github.com/users/testuser"
       url: "/talk/20341231-your-awesome-talk.html"
+    - 
+      type: "Person"
+      image: "https://avatars.githubusercontent.com/u/74390?v=3"
+      name: "Patrick Heneise"
+      id: "your-even-more-awesome-talk"
+      sameAs: "https://api.github.com/users/PatrickHeneise"
+      url: "/talk/20341231-your-even-more-awesome-talk.html"
+  __content: "\nBarcelona.JS is a usergroup focused on JavaScript and related topics."
 
 
 ---
