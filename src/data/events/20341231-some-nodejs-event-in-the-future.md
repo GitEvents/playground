@@ -2,7 +2,7 @@
   @@context: "http://schema.org"
   @@type: "Social event"
   location: 
-    @type: "Place"
+    @@type: "Place"
     address: 
       @type: "PostalAddress"
       addressLocality: "Barcelona Spain"
@@ -10,19 +10,19 @@
       streetAddress: "C/ Fontanella 2"
     name: "Mobile World Centre"
   offers: 
-    @type: "Offer"
+    @@type: "Offer"
     url: "https://ti.to/barcelonajs/some-nodejs-event-in-the-future"
     price: "0"
     priceCurrency: "EUR"
     availability: "http://schema.org/InStock"
   doorTime: "18:45"
   inLanguage: 
-    @type: "Language"
+    @@type: "Language"
     name: "English"
   id: "some-nodejs-event-in-the-future"
   organizer: 
-    @context: "http://schema.org"
-    @type: "Organization"
+    @@context: "http://schema.org"
+    @@type: "Organization"
     address: 
       @type: "PostalAddress"
       addressLocality: "Barcelona, Spain"
@@ -37,7 +37,7 @@
   startDate: "2034-12-31T19:00"
   performer: 
     - 
-      @type: "Person"
+      @@type: "Person"
       image: "https://avatars.githubusercontent.com/u/19480?v=3"
       name: null
       sameAs: "https://api.github.com/users/testuser"
