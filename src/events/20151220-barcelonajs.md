@@ -29,6 +29,7 @@
   github: "https://api.github.com/repos/gitevents/playground/issues/2"
   url: "/event/barcelonajs.html"
   name: "BarcelonaJS"
+  __content: "\nBarcelona.JS is a usergroup focused on JavaScript and related topics."
 
 
 ---
