@@ -34,5 +34,15 @@
   },
   "github": "https://api.github.com/repos/gitevents/playground/issues/2",
   "url": "/event/20991231-barcelonajs.html",
-  "name": "BarcelonaJS"
+  "name": "BarcelonaJS",
+  "performer": [
+    {
+      "type": "Person",
+      "image": "https://avatars.githubusercontent.com/u/74390?v=3",
+      "name": "Patrick Heneise",
+      "id": "20991231-your-awesome-hello-talk",
+      "sameAs": "https://api.github.com/users/PatrickHeneise",
+      "url": "/talk/20991231-your-awesome-hello-talk.html"
+    }
+  ]
 }
